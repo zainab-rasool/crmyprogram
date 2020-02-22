@@ -19,6 +19,7 @@ public class a {
 
 	
 	public static void main(String[] args){
+		System.out.println("hello");
 		a obj=new a();
 		Scanner s=new Scanner(System.in);
 		System.out.println("Enter the number = ");
